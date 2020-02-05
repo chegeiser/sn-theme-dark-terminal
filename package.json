@@ -1,12 +1,12 @@
 {
-  "name": "sn-theme-evernote-dark",
-  "version": "1.3",
+  "name": "sn-theme-dark-terminal",
+  "version": "1.4",
   "main": "dist/dist.css",
   "sn": {
     "main": "dist/dist.css"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ilindaniel/sn-theme-evernote-dark.git"
+    "url": "git://github.com/cgeiser/sn-theme-dark-terminal.git"
   }
 }
