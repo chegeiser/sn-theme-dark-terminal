@@ -4,11 +4,11 @@
     "content_type": "SN|Theme",
     "area": "themes",
     "description": "Evernote inspired dark theme for Standard Notes",
-    "version": "v1.0",
+    "version": "v1.1",
     "url": "https://raw.githubusercontent.com/chegeiser/sn-theme-evernote-dark/dist/dist.css",
     "download_url": "https://github.com/chegeiser/sn-theme-evernote-dark/archive/master.zip",
     "marketing_url": "https://github.com/chegeiser/sn-theme-evernote-dark",
-    "latest_url": "https://github/sn-theme-evernote-dark/ext.json",
+    "latest_url": "https://raw.githubusercontent.com/chegeiser/sn-theme-evernote-dark/master/ext.json",
     "thumbnail_url": "https://raw.githubusercontent.com/chegeiser/sn-theme-evernote-dark/master/preview.png",
     "dock_icon": {
       "type": "circle",
