@@ -1,8 +1,8 @@
-# :elephant: Evernote inspired dark theme for Standard Notes
+# Terminal dark theme for Standard Notes
 ![Evernote-style Dark Theme for Standard Notes](preview.png)
 
 [Standard Notes](https://standardnotes.org/) is a privacy-focused notebook for all platforms.<br><br>
-Theme is inspired by colors from Evernote and heavily based on the [gruvbox theme from Christian Hans](https://github.com/christianhans/sn-gruvbox-dark-theme).<br>
+Theme is inspired by colors from Daniel Ilin's [Evernote-style Dark Theme](https://github.com/ilindaniel/sn-theme-evernote-dark) and heavily based on the [gruvbox theme from Christian Hans](https://github.com/christianhans/sn-theme-evernote-dark).<br>
 Standard Notes is not related to Evernote.
 
 ## How to install
@@ -10,5 +10,5 @@ Standard Notes is not related to Evernote.
 Open "Extensions" in Standard Notes and click "Import Extension". Paste the following URL and press enter:
 
 ```
-https://danielilin.de/github/sn-theme-evernote-dark/ext.json
+https://raw.githubusercontent.com/chegeiser/sn-theme-dark-terminal/master/ext.json
 ```
